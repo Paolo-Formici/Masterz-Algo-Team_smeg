@@ -1,0 +1,33 @@
+{
+    "name": "RLI5@01",
+    "description": "This is a unique digital representation of my physical fridge.",
+    "components": {
+        "model": "FAB30R",
+        "serial_number": "ABCDEFG1234567",
+        "manufacturer": "SMEG",
+        "dimensions": {
+            "width": 700,
+            "height": 1500,
+            "depth": 700
+        },
+        "color": "Stainless Steel",
+        "capacity": 500,
+        "features": [
+            "Smart Connectivity",
+            "Auto Defrost",
+            "Ice Maker"
+        ]
+    },
+    "warranty": {
+        "start_date": "2022-01-01T00:00:00Z",
+        "end_date": "2025-01-01T00:00:00Z",
+        "coverage": "Parts and Labor"
+    },
+    "repairs": [
+        {
+            "date": "2022-03-01T00:00:00Z",
+            "description": "Replaced the ice maker",
+            "technician": "John Doe"
+        }
+    ]
+}
